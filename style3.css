@@ -6,7 +6,7 @@
 body {
     height: 100vh;
     width: 100vw;
-   background: linear-gradient(45deg,#552C88,#576C76,#045f80,#23d5ad);
+    background: linear-gradient(45deg,#e0d50e,#37b3ecc7,#cc0ad3,#e4e40d);
     background-size: 300% 300%;
     animation: color 12s ease-in-out infinite;
     font-family: 'Times New Roman', Times, serif;
